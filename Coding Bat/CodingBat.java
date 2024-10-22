@@ -1,4 +1,7 @@
 public class CodingBat {
+
+    // Below methods for each 
+
     public static boolean sleepIn(boolean weekday, boolean vacation) {
         if(!weekday || vacation) {
           return true;
